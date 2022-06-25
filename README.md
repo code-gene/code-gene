@@ -23,7 +23,9 @@
 </p>
 
 ### I :heart: Leetcode
-![LeetCode Stats](https://leetcode.card.workers.dev/abhishekumar_1401?theme=dark&font=source_code_pro&extension=activity)
+<p align="center">
+<img src="https://leetcode.card.workers.dev/abhishekumar_1401?theme=dark&font=source_code_pro&extension=activity" />          
+</p>
 
 
 ### 🛠 &nbsp;Tech Stack
