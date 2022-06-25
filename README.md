@@ -11,7 +11,7 @@
 
 
 ### I :heart: GitHub :octocat:
-[<img src="https://github-profile-trophy.vercel.app/?username=code-gene&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
+[<img src="https://github-profile-trophy.vercel.app/?username=code-gene&theme=radical&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
 ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=code-gene&show_icons=true&line_height=32&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=code-gene&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code-gene&layout=compact&theme=vision-friendly-dark)
