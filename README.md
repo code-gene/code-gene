@@ -17,6 +17,9 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code-gene&layout=compact&theme=vision-friendly-dark)
 
 
+### I :heart: Leetcode :octocat:
+![LeetCode Stats](https://leetcode.card.workers.dev/abhishekumar_1401?theme=dark&font=source_code_pro&extension=activity)
+
 
 **Languages and Tools:**  
 
