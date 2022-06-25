@@ -18,11 +18,7 @@
 
 
 ### I :heart: Leetcode
-<br>
-<p align="center">
-  ![LeetCode Stats](https://leetcode.card.workers.dev/abhishekumar_1401?theme=dark&font=source_code_pro&extension=activity)
-</p>
-
+![LeetCode Stats](https://leetcode.card.workers.dev/abhishekumar_1401?theme=dark&font=source_code_pro&extension=activity)
 
 
 **Languages and Tools:**  
