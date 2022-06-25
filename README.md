@@ -18,7 +18,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-gene&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
         <br>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=code-gene&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=code-gene&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=code-gene&layout=compact&langs_count=5&theme=vision-friendly-dark"/>
 </a>
 </p>
 
