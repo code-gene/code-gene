@@ -20,6 +20,8 @@
 
 <p align="center">
 <a href="https://github.com/code-gene">
+  [<img src="https://github-profile-trophy.vercel.app/?username=code-gene&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-gene&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
         <br>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=code-gene&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
