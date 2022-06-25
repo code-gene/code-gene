@@ -11,11 +11,12 @@
 
 
 ### I :heart: GitHub :octocat:
+<div align=center>
 [<img src="https://github-profile-trophy.vercel.app/?username=code-gene&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
 ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=code-gene&show_icons=true&line_height=32&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=code-gene&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code-gene&layout=compact&theme=vision-friendly-dark)
-
+</div>
 
 ### I :heart: Leetcode
 ![LeetCode Stats](https://leetcode.card.workers.dev/abhishekumar_1401?theme=dark&font=source_code_pro&extension=activity)
