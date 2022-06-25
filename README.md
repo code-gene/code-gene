@@ -9,18 +9,11 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have made lot of mistakes in my life still I learn and keep smiling :)
 
-
-### I :heart: GitHub :octocat:
-[<img src="https://github-profile-trophy.vercel.app/?username=code-gene&theme=radical&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=code-gene&show_icons=true&line_height=32&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=code-gene&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=code-gene&layout=compact&theme=vision-friendly-dark)
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/code-gene">
-  <img src="https://github-profile-trophy.vercel.app/?username=code-gene&theme=onestar&no-frame=true&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=code-gene&theme=onestar&no-frame=true&row=3&column=4" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-gene&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
         <br>
