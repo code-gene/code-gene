@@ -1,8 +1,8 @@
 ### Hi there, This is Abhishek👋
 
 - 🔭 I’m looking for ... SDE/SE roles
-- 🌱 I’m currently learning Web Development and also preparing for SDE/SE roles
-- 🔥  I have made projects on App Development(Flutter + Firebase) and Web Development(React + Firebase)
+- 🌱 I’m currently learning Full Stack Development and also preparing for SDE/SE roles
+- 🔥  I have made projects on App Development(Flutter + Firebase) and Web Development
 - 💪🏻 Fitness Enthusiast
 - 💬 Ask me about Anything
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/abhishek-kumar-3a813b169/)
