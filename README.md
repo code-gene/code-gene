@@ -5,7 +5,7 @@
 - 🔥  I have made projects on App Development(Flutter + Firebase) and Web Development (MERN)
 - 💪🏻 Fitness Enthusiast
 - 💬 Ask me about Anything
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/abhishek-kumar-3a813b169/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/abhishek788/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have made lot of mistakes in my life still I learn and keep smiling :)
 
