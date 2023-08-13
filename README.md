@@ -1,8 +1,8 @@
 ### Hi there, This is Abhishek👋
 
-- 🔭 I’m looking for ... SDE/SE roles
-- 🌱 I’m currently learning Full Stack Development and also preparing for SDE/SE roles
-- 🔥  I have made projects on App Development(Flutter + Firebase) and Web Development
+- 🔭 I’m looking for ... SDE/Full Stack Developer roles
+- 🌱 I’m currently a Software Engineer at Persistent. Experience in Technologies like Java, Springboot, Nodejs and MongoDB.
+- 🔥  I have made projects on App Development(Flutter + Firebase) and Web Development (MERN)
 - 💪🏻 Fitness Enthusiast
 - 💬 Ask me about Anything
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/abhishek-kumar-3a813b169/)
